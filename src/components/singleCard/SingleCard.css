@@ -1,0 +1,16 @@
+.Card {
+    height: 167px;
+    background-color: #fff;
+    margin: 10px;  
+}
+
+.imgFound {
+    opacity: 0.4;
+    background-color: black;
+    border-color: black;
+    border-width: 10px;
+}
+
+img {
+    width: 100%;
+}

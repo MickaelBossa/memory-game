@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.titleInstruction {
+  display: flex;
+  justify-content: center;
+  color: rgb(94, 163, 67);
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+}
+
+.btnText {
+  background-color: rgb(94, 163, 67);
+  padding: 6px;
+  border-radius: 4px;
+}
+
