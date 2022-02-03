@@ -1,6 +1,0 @@
-.Cards {   
-    width: 100%;
-    display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
-    justify-content: center;
-}
